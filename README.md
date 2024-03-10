@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 'Guillaume' of Savoy 🫕, France 🇫🇷 🥖 </h1>
 <h3 align="center">I have a keen interest in the frontend, UI and UX design, and by extension: JavaScript.</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://www.figma.com/file/3JghC32k6EJgmLoSt6p0cO/Portfolio?type=design&node-id=0%3A1&mode=design&t=SZeo0EH4w6R8IfjP-1)
+- 🔭 Building my [portfolio](https://guillaumesimplon.github.io/Guillaume_portfolio/)
 
 - 🌱 I’m currently learning **Next.js with Js and Ts**
 
