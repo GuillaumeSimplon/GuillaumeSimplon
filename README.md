@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 'Guillaume' of Savoy 🫕, France 🇫🇷 🥖 </h1>
 <h3 align="center">I have a keen interest in the frontend, UI and UX design, and by extension: JavaScript.</h3>
 
-- 🔭 Building my [portfolio](https://guillaumesimplon.github.io/Guillaume_portfolio/)
+- 🔭 Comme see my [portfolio](https://guillaumesimplon.github.io/Guillaume_portfolio/)
 
 - 🌱 I’m currently learning **Next.js with Js and Ts**
 
