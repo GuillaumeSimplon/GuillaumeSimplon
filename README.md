@@ -60,7 +60,7 @@
  </div>
  
 ## What I'd like to improve for 2024 😀
-1. [ ] Mobile app development (Starting with React Native)
+1. [ ] Mobile app development : Starting with Phaser.js OR React Native
 2. [ ] Database
 3. [ ] Docker
 
