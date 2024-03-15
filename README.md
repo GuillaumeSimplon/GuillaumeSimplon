@@ -69,3 +69,5 @@
 
 ## Most commonly used languages 🔎
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeSimplon)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeSimplon&layout=donut)](https://github.com/GuillaumeSimplon/github-readme-stats)
