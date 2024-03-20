@@ -3,7 +3,7 @@
 
 - 🔭 Come see my [portfolio](https://guillaumesimplon.github.io/Guillaume_portfolio/)
 
-- 🌱 I’m currently learning **Next.js with Js and Ts**, and, **I'm looking for an 18-month work-study position as an application developer**
+- 🌱 I’m currently learning and work **Next.js with Js and Ts**, and, **I'm looking for an 18-month work-study position as an application developer**
 
 - 💬 Ask me about **Next, React, JavaScript**
 
@@ -60,7 +60,7 @@
  </div>
  
 ## What I'd like to improve for 2024 😀
-1. [ ] Mobile app development : Starting with Phaser.js OR React Native
+1. [ ] Mobile app development like React Native
 2. [ ] Database
 3. [ ] Docker
 
